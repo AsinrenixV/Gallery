@@ -187,6 +187,7 @@ Publish the website in the given URL.
 ![alt text](<renix/galleryapp/static/Screenshot (91).png>)
 ![alt text](<renix/galleryapp/static/Screenshot (90).png>)
 ![alt text](<renix/galleryapp/static/Screenshot (89).png>)
+![alt text](<renix/galleryapp/static/Screenshot (96).png>)
 
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
